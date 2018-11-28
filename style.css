@@ -1,6 +1,6 @@
 #box {
-    width: 100px;
-    height: 100px;
+    width: fit-content;
+    height: fit-content;
     position: absolute;
     left: 200px;
     top: 200px;
